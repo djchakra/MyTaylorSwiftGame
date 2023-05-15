@@ -1,0 +1,6 @@
+Game plan for taylorswift game:
+First Im going to copy it into my own repository on github
+
+Then Im going to make a game plan for the actual program:
+
+	
